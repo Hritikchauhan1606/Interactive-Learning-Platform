@@ -16,3 +16,5 @@ Tech Stack -
 HTML, CSS , NodeJS , JavaScript , Vue , MongoDB  
 
 <img width="299" alt="flowchart-student" src="https://user-images.githubusercontent.com/43277504/137576547-9adb7dbd-33f5-49bb-aef2-1492be7501a6.PNG">
+
+<img width="264" alt="flowchart-teacher" src="https://user-images.githubusercontent.com/43277504/137576595-94db992f-5bd2-4722-b0a3-44ff4c47e28e.PNG">
