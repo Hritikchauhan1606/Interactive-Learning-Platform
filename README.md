@@ -15,3 +15,4 @@ Project Features Along with Priorities-
 Tech Stack -
 HTML, CSS , NodeJS , JavaScript , Vue , MongoDB  
 
+<img width="299" alt="flowchart-student" src="https://user-images.githubusercontent.com/43277504/137576547-9adb7dbd-33f5-49bb-aef2-1492be7501a6.PNG">
